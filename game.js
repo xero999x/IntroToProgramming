@@ -18,7 +18,7 @@ function playCraps(){
     outputRes("die1Res", "Die 1 is: " + die1);
 
     //show the result of the second die roll on the HTML page
-    outputRes("die2Res", "Die 2 is: " + die2);
+    outputRes("die2Res", "Die 2 is: " + die1);
 
     //show the result of the sum on the HTML page
     outputRes("sumRes", "The sum is: " + sum);
