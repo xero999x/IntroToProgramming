@@ -1,10 +1,11 @@
+/*Adds primary and secondary colors of the body*/
 body{
 
     background-color: mediumslateblue;
     color:ivory
 
 }
-
+/*Formats the navigation section so that it is better looking, or user-friendly*/
 nav{
 
     height: 6000px;
@@ -14,22 +15,22 @@ nav{
     line-height: 30px;
 
 }
-
+/*Formats the footer to look better/professional*/
 footer{
 
     text-align: center;
     margin-right: 200px;
 
 }
-
+/*Formating the Image*/
 #memeimage{
 
     margin-right: 200px;
 
 }
-
+/*Formats the header to look better/professional*/
 header{
 
     text-align: center;
-    
+
 }
